@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🗿
 
-### Olá sou Thales 👋🗿
+### Olá sou Thales
 
 ### Tecnologias que eu uso
 <div style="display: inline_block"><br>
