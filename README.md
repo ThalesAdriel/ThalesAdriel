@@ -1,6 +1,7 @@
 ### Hi there 👋🗿
 
 ### Olá sou Thales
+Cursando o segundo período de Tecnologia em Sistemas para Internet
 
 ### Tecnologias que eu uso
 <div style="display: inline_block"><br>
