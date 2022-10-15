@@ -1,4 +1,4 @@
-### Hi there 👋🗿
+### Hello there 👋🗿
 
 ### Olá sou Thales
 Cursando o segundo período de Tecnologia em Sistemas para Internet
