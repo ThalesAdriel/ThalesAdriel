@@ -1,7 +1,7 @@
 ### Hello there 👋🗿
 
 ### Olá sou Thales
-Cursando o terceiro período de Tecnologia em Sistemas para Internet
+Cursando o quarto período de Tecnologia em Sistemas para Internet
 
 ### Tecnologias preferidas
 <div style="display: inline_block"><br>
